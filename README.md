@@ -1,11 +1,11 @@
-# 📘 Educational Organisation Using ServiceNow  
+#  Educational Organisation Using ServiceNow  
 
 ## 📖 Overview  
 The **Educational Management System (EMS)** is developed on the **ServiceNow platform** to improve efficiency in educational institutions. It automates admissions, manages student and teacher data, and tracks academic progress, providing a centralized and user-friendly solution.  
 
 ---
 
-## ✨ Features  
+##  Features  
 - Student and teacher data management  
 - Automated admission process  
 - Academic progress tracking  
@@ -14,13 +14,13 @@ The **Educational Management System (EMS)** is developed on the **ServiceNow pla
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 - **ServiceNow Platform**  
 - **SmartBridge Guidance**  
 
 ---
 
-## 🚀 How It Works  
+##  How It Works  
 1. Student and teacher records are stored in ServiceNow.  
 2. Admissions are automated, reducing manual effort.  
 3. Academic progress is tracked with easy data access.  
@@ -28,7 +28,7 @@ The **Educational Management System (EMS)** is developed on the **ServiceNow pla
 
 ---
 
-## 📈 Future Scope  
+##  Future Scope  
 - Integration with e-learning platforms  
 - Mobile app interface for students and teachers  
 - Advanced analytics for performance tracking  
@@ -36,7 +36,7 @@ The **Educational Management System (EMS)** is developed on the **ServiceNow pla
 
 ---
 
-## 👤 Author  
+##   Author  
 **M Eswar Gopala Swamy**  
 Department of Mechanical Engineering  
 Vishnu Institute of Technology  
